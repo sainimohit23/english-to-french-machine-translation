@@ -36,6 +36,14 @@ Model structure:
 
 ![atten](https://user-images.githubusercontent.com/26195811/44616233-b8303680-a869-11e8-80e5-270d571228fe.png)
 
+
+Graph created by tensorboard:
+
+
+![a](https://user-images.githubusercontent.com/26195811/44616445-65587e00-a86d-11e8-8375-9c0cf985b938.png)
+
+
+
 ### Training
 This section is about putting previously defined functions together to `build an actual instance of the model`. Furthermore, it will show how to `define cost function`, how to `apply optimizer` to the cost function, and how to modify the value of the gradients in the TensorFlow's optimizer module to perform `gradient clipping`.
 
